@@ -4,7 +4,7 @@ import java.util.*;
 // import java.math.*;
 // import java.util.regex.*;
 
-public class HelloWorld{
+public class FindOddNums{
     
     static List<Integer> oddNumbers(int left, int right) {
         List<Integer> table = new ArrayList(); //creates a new list to store the odd numbers later on
